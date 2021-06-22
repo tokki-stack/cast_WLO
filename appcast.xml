@@ -12,7 +12,7 @@
             <title>Version 4.0</title>
             <description>UI improvement</description>
             <pubDate>Sun, 20 Jun 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/il/app/work-life-organised/id1538176375" sparkle:version="2.2.4" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/il/app/work-life-organised/id1538176375" sparkle:version="2.2.6" sparkle:os="iOS" />
             <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
