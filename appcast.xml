@@ -10,9 +10,9 @@
         </item>
         <item>
             <title>Version 2.3.6</title>
-            <description>Some minor fixes</description>
-            <pubDate>Web, 23 sep 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/il/app/work-life-organised/id1538176375" sparkle:version="2.3.6" sparkle:os="iOS" />
+            <description>Notification Improvements</description>
+            <pubDate>Thur, 7 oct 2021 12:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/il/app/work-life-organised/id1538176375" sparkle:version="2.3.7" sparkle:os="iOS" />
             <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
